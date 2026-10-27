@@ -73,4 +73,5 @@ The generated visual graph (`exoplanet_transit_kinematics.png`) confirms the phy
 *   **Telemetry Scatter:** The grey data points replicate realistic, noisy space telescope readings, showing a clear dip during the transit window.
 *   **Model Fit Line:** The bright cyan curve shows the optimized physical model fit. The curved shape at the bottom of the dip confirms the quadratic limb-darkening calculation is working correctly, capturing how the planet blocks varying amounts of light as it crosses the star's dark edges and bright center.
 
-![Exoplanet Transit Output](exoplanet_transit_modeling/exoplanet_transit_kinematics.png)
+![Exoplanet Transit Output](exoplanet_transit_modeling/exoplanet_transit_kinematics.png)<img width="1713" height="896" alt="image" src="https://github.com/user-attachments/assets/55d1d552-a2ff-4d2d-a1bd-c7c2bae32f08" />
+
