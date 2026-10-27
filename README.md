@@ -1,6 +1,6 @@
 # exoplanet_transit_modeling
  | **`exoplanet_transit_modeling`** | Exoplanetary Kinematics | Non-Linear Least-Squares Inversion Fitting &amp; Keplerian Mechanics | `scipy.optimize`, `numpy` |
-## Project 5: Exoplanetary Transit Photometry & Orbital Inversion Engine
+## Project 3: Exoplanetary Transit Photometry & Orbital Inversion Engine
 
 ### 1. Project Overview & Objective
 Detecting extrasolar planetary systems relies heavily on transit photometry, measuring the slight dip in a star's brightness as a planet passes in front of it. By parsing the exact geometry of these light curves, astronomers can invert the observation problem to determine the planet's size, velocity, and distance from its parent star without ever seeing the planet directly.
